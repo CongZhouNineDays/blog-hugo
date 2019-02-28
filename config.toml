@@ -2,7 +2,6 @@ baseURL = "https://congzhou.github.io/"
 languageCode = "zh-CN"
 title = "玖歌的Blog"
 theme = "maupassant"
-publishdir = "public"
 
 [author]
     name = "玖歌"
