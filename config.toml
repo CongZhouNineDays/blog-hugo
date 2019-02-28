@@ -1,0 +1,19 @@
+baseURL = "https://congzhou.github.io/"
+languageCode = "zh-CN"
+title = "玖歌的Blog"
+theme = "maupassant"
+publishdir = "public"
+
+[author]
+    name = "玖歌"
+
+[params]
+    author = "玖歌"
+    subtitle = "focus on Java"
+    keywords = "golang,go语言,Go语言,Java,玖歌"
+    description = "this man is very lazy,he hasn't write any description"
+
+## 保持分类的原始名字（false会做转小写处理）
+preserveTaxonomyNames = true
+## 是否禁止URL Path转小写
+disablePathToLower = true
