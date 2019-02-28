@@ -2,6 +2,7 @@ baseURL = "https://congzhou.github.io/"
 languageCode = "zh-CN"
 title = "玖歌的Blog"
 theme = "maupassant"
+canonifyurls = true
 
 [author]
     name = "玖歌"
