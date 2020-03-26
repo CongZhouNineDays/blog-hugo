@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 玖歌的Blog</title>
-    <link>https://congzhouninedays.github.io/congzhou.github.io/posts/</link>
+    <link>https://blog.zcnine.cn/posts/</link>
     <description>Recent content in Posts on 玖歌的Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Fri, 01 Mar 2019 15:21:29 +0800</lastBuildDate>
     
-	<atom:link href="https://congzhouninedays.github.io/congzhou.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.zcnine.cn/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>记录一次habse[key-value is too large]的排错及解决办法</title>
-      <link>https://congzhouninedays.github.io/congzhou.github.io/posts/blog/my-second-blog/</link>
+      <link>https://blog.zcnine.cn/posts/blog/my-second-blog/</link>
       <pubDate>Fri, 01 Mar 2019 15:21:29 +0800</pubDate>
       
-      <guid>https://congzhouninedays.github.io/congzhou.github.io/posts/blog/my-second-blog/</guid>
+      <guid>https://blog.zcnine.cn/posts/blog/my-second-blog/</guid>
       <description>事件起因是:数据同步程序中kafka的消费线程突然中止，于服务器上程序日志中找出如下异常信息:
  Caused by: IllegalArgument(message:java.lang.IllegalArgumentException: KeyValue size too large
 经过查找相关资料，初步估计为以下原因: 单条内容过大，超过hbase配置的大小(我自己这边默认的是10M)  hbase.client.keyvalue.maxsize</description>
@@ -24,10 +24,10 @@
     
     <item>
       <title>这是我的第一篇博客</title>
-      <link>https://congzhouninedays.github.io/congzhou.github.io/posts/blog/my-first-post/</link>
+      <link>https://blog.zcnine.cn/posts/blog/my-first-post/</link>
       <pubDate>Wed, 27 Feb 2019 11:01:00 +0800</pubDate>
       
-      <guid>https://congzhouninedays.github.io/congzhou.github.io/posts/blog/my-first-post/</guid>
+      <guid>https://blog.zcnine.cn/posts/blog/my-first-post/</guid>
       <description>这是我的第一篇博客，从初学Go的时候看到好多博主的bolg都是用Hugo搭的，于是也想用Hugo来搭建一个自己的Blog。 于是Google各种资料，大多数的流程都是Hugo官网中的教程来的，用了flysnow的theme，前期还不是很明白如何定制主题， 等以后熟练之后再自己diy一个。  以上。</description>
     </item>
     
