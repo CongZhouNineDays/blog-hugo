@@ -1,4 +1,4 @@
-baseURL = "https://congzhouninedays.github.io/congzhou.github.io/"
+baseURL = "https://blog.zcnine.cn"
 languageCode = "zh-CN"
 title = "玖歌的Blog"
 theme = "maupassant"
